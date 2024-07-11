@@ -17,4 +17,17 @@
   - HTML
   - CSS
   - JavaScript
-  
+
+
+## Installation
+To get started with this project, clone the repository and install the dependencies:
+1. git clone https://github.com/Anjali9561Gupta/CodeAlpha_ToDo_List_App
+2. cd CodeAlpha_ToDo_List_App
+3. npm install
+
+## Usage
+
+## Running the Application
+To start the development server and open the application in your browser:
+
+npm start
