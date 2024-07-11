@@ -1,4 +1,4 @@
-# CodeAlpha Internship Project
+# Internship Project
 
 # To-Do List App
   This is a Todo List App made of using HTML, CSS , JavaScript.A simple to do list app to manage your tasks, projects, and team's work.
